@@ -14,9 +14,9 @@ This project is part of the Data Science NanoDegree from Udacity. With data from
 
 * run.py -> This file has the flask web-app code that loads the model, display the visuals and receive user input text for modeling.
 
-* disaster_categories.csv -> categories data
+* categories.csv -> categories data
 
-* disaster_messages.csv -> messages data
+* messages.csv -> messages data
 
 # Installations
 
