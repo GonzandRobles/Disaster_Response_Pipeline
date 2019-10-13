@@ -20,27 +20,27 @@ This project is part of the Data Science NanoDegree from Udacity. With data from
 
 # Installations
 
-re
-pandas
-numpy
-nltk
-pickle
-from sqlalchemy import create_engine
+* re
+* pandas
+* numpy
+* nltk
+* pickle
+* from sqlalchemy import create_engine
 
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords
-nltk.download(['punkt', 'wordnet', 'stopwords', 'averaged_perceptron_tagger', 'maxent_ne_chunker', 'words'])
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.pipeline import Pipeline, FeatureUnion
-from sklearn.multioutput import MultiOutputClassifier
-from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
-from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
-from sklearn.svm import LinearSVC
-from sklearn.linear_model import SGDClassifier
-from sklearn.metrics import classification_report
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import f1_score, recall_score
-from custom_transformer import tokenize, TextLength
+* from nltk.tokenize import word_tokenize
+* from nltk.stem import WordNetLemmatizer
+* from nltk.corpus import stopwords
+* nltk.download(['punkt', 'wordnet', 'stopwords', 'averaged_perceptron_tagger', 'maxent_ne_chunker', 'words'])
+* from sklearn.model_selection import train_test_split, GridSearchCV
+* from sklearn.pipeline import Pipeline, FeatureUnion
+* from sklearn.multioutput import MultiOutputClassifier
+* from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+* from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
+* from sklearn.svm import LinearSVC
+* from sklearn.linear_model import SGDClassifier
+* from sklearn.metrics import classification_report
+* from sklearn.naive_bayes import MultinomialNB
+* from sklearn.metrics import f1_score, recall_score
+* from custom_transformer import tokenize, TextLength
 
 
