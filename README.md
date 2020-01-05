@@ -1,5 +1,5 @@
 # DisasterResponsePipeline
-Web app project with ETL, NPL and ML pipelines to handle real messages that were sent during disaster events with the purpose to be sent to an appropriate disaster relief agency. 
+Web app project with ETL, NLP and ML pipelines to handle real messages that were sent during disaster events with the purpose to be sent to an appropriate disaster relief agency. 
 
 # Project Overview
 This project is part of the Data Science NanoDegree from Udacity. With data from Figure Eight, the main goal is to analyze disaster data to build a model for an API that classifies disaster messages. The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
